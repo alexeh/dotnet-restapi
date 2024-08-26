@@ -1,0 +1,6 @@
+@amazonia360_backend_HostAddress = http://localhost:5228
+
+GET {{amazonia360_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

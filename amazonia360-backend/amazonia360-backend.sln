@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amazonia360-backend", "amazonia360-backend.csproj", "{DE282855-F2DD-4252-ACF4-6EEFAA45F97B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E257BE66-4BA7-429B-B01D-D579F00841F5}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE282855-F2DD-4252-ACF4-6EEFAA45F97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE282855-F2DD-4252-ACF4-6EEFAA45F97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE282855-F2DD-4252-ACF4-6EEFAA45F97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE282855-F2DD-4252-ACF4-6EEFAA45F97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

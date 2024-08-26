@@ -1,0 +1,6 @@
+﻿services:
+  amazonia360-backend:
+    image: amazonia360-backend
+    build:
+      context: .
+      dockerfile: Dockerfile
